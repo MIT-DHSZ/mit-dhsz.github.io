@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"3dab9509172385fac5b539cc1a10fb3f-0.html":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et tellus sed odio interdum consectetur. Sed odio turpis, commodo ut justo non, digniss","752f82acc7eb77c807d708e2ecb0504f-1.html":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et tellus sed odio interdum consectetur. Sed odio turpis, commodo ut justo non, digniss","archive-july-2018.html":"Archives for July 2018"};
+	var websiteMeta = {"752f82acc7eb77c807d708e2ecb0504f-1.html":"Introduction of what this tutorial will include","archive-july-2018.html":"Archives for July 2018"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
