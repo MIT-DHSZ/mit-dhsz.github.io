@@ -4,6 +4,9 @@
 		<loc>https://MIT-DHSZ.github.io/index.html</loc>
 	</url>
 	<url>
+		<loc>https://MIT-DHSZ.github.io/iframe/index.html</loc>
+	</url>
+	<url>
 		<loc>https://MIT-DHSZ.github.io/blog/index.html</loc>
 	</url>
 	<url>
@@ -11,5 +14,14 @@
 	</url>
 	<url>
 		<loc>https://MIT-DHSZ.github.io/blog/files/archive-july-2018.html</loc>
+	</url>
+	<url>
+		<loc>https://MIT-DHSZ.github.io/blog-2/index.html</loc>
+	</url>
+	<url>
+		<loc>https://MIT-DHSZ.github.io/blog-2/files/4c3bf3787d65a0af967d59b8dbd94e13-0.html</loc>
+	</url>
+	<url>
+		<loc>https://MIT-DHSZ.github.io/blog-2/files/archive-november-2019.html</loc>
 	</url>
 </urlset>
