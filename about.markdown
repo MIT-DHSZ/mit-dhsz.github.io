@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Who is Master in Tech?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Master in Technology is a non-profit project aiming to help you build relationships with nowadays technological world. We offer tips for better use of your computers and iPads. On this website, you can find tutorials of efficiency-enhancing softwares such as Teams, Notion and OneNote.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Why do we exist?
 
+As people’s reliance on technological devices boosts recent years, how to effectively use these devices to maximum the work efficiency has become a big problem for everyone.
 
-[jekyll-organization]: https://github.com/jekyll
+## What do we offer?
+
+You can also find recommendations to some useful softwares that you have never heard of. We have all kinds of softwares on different systems, so regardless of the system you are using, this website will be helpful to you. Our email address is at the bottom of the page. You can contact us if you have any problems.
+
+## Contact MiT Via:
+- [MiT Official Email](mit@dchigh-suzhou.cn)
