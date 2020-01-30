@@ -17,4 +17,4 @@ As people’s reliance on technological devices boosts recent years, how to effe
 You can also find recommendations to some useful softwares that you have never heard of. We have all kinds of softwares on different systems, so regardless of the system you are using, this website will be helpful to you. Our email address is at the bottom of the page. You can contact us if you have any problems.
 
 ## Contact MiT Via:
-- [MiT Official Email](mit@dchigh-suzhou.cn)
+- [MiT Official Email](mailto:mit@dchigh-suzhou.cn)
