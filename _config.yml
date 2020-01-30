@@ -21,15 +21,15 @@
 title: Master in Tech 
 email: mit@dchigh-suzhou.cn
 description: >- # this means to ignore newlines until "baseurl:"
-Master in Technology is a non-profit project aiming to help you build relationships with nowadays technological world. We offer tips for better use of your computers and iPads. On this website, you can find tutorials of efficiency-enhancing softwares such as Teams, Notion and OneNote.
+        Master in Technology is a non-profit project aiming to help you build relationships with nowadays technological world. We offer tips for better use of your computers and iPads. On this website, you can find tutorials of efficiency-enhancing softwares such as Teams, Notion and OneNote.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: charliegai 
 
 # Build settings
-theme: jekyll-serif-theme 
-plugins:
-  - jekyll-feed
+theme: minima 
+# plugins:
+        #  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
