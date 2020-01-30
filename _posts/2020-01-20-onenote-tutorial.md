@@ -1,7 +1,5 @@
 # Class Notebook / OneNote
 
-# Created by Yosef Karasik
-
 Class notebooks are useful VLEs that allow students to have their own digital learning portfolios, access to common learning resources and facilitate collaborative work.
 
 If you already have a class notebook set up for your classes, please ignore the ‘set up’ stage.
