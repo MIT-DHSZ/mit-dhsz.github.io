@@ -9,13 +9,13 @@ The Posts tab can be used as a communication channel between teachers.
 - Initiate a VC (“Meet Now”)
 - Make sure that you reply to threads to keep conversations compartmentalize
 
-![image-20200131010126907](/Users/apple/Library/Application Support/typora-user-images/image-20200131010126907.png)
+![image001](/Users/apple/Websites/mit-dhsz.github.io/_posts/untitled folder/image001.jpg)
 
 ## Video Conference
 
 - To start (or set up) a VC, press the ‘Meet now’ icon in the ‘Post’ tab.
 
-![image-20200131010653355](/Users/apple/Library/Application Support/typora-user-images/image-20200131010653355.png)
+
 
 - Press ‘Schedule a meeting’ to change the setting for the VC.
 (img)
