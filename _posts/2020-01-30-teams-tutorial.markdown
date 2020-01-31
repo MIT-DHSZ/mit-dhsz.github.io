@@ -120,5 +120,8 @@ Note: For Flipgrid, you will first need to create the grid (once), using your Mi
 ## Side bar
 ‘Assignments’ tab on the side bar can be used to see a summary of all the assignment set by a teacher as well as the status (who submitted/didn’t).
 ‘Chat’ tab can be used, as name suggests, to communicate with students/teachers.
+<<<<<<< HEAD
 
 ![image001](/img/image021.jpg)
+=======
+>>>>>>> 532d2d72b7bcbdec11831f68debb57130db60748
