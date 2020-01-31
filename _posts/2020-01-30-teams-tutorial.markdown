@@ -9,7 +9,7 @@ The Posts tab can be used as a communication channel between teachers.
 - Initiate a VC (“Meet Now”)
 - Make sure that you reply to threads to keep conversations compartmentalize
 
-[image001](/img/image001.jpg)
+![image001](/img/image001.jpg)
 
 ## Video Conference
 
