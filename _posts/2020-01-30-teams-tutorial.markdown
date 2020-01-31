@@ -1,11 +1,7 @@
-
-
-# Microsoft Teams
-
-## Posts tab
+# Posts tab
 
 The Posts tab can be used as a communication channel between teachers.
- In addition, you can use the Posts tab to:
+In addition, you can use the Posts tab to:
 
 - Drag and Drop learning resources
 - Initiate a VC (“Meet Now”)
@@ -13,18 +9,21 @@ The Posts tab can be used as a communication channel between teachers.
 
 ![image001](/img/image001.jpg)
 
-## Video Conference
+
+
+# Video Conference
 
 - To start (or set up) a VC, press the ‘Meet now’ icon in the ‘Post’ tab.
 
 ![image002](/img/image002.jpg)
 
-- Press ‘Schedule a meeting’ to change the setting for the VC.
+
+- Press **‘Schedule a meeting’** to change the setting for the VC.
 
 ![image003](/img/image003.jpg)
 
 
-- Fill in all the relevant details and press ‘schedule’
+- Fill in all the relevant details and press **‘schedule’**
 
 ![image004](/img/image005.jpg)
 
@@ -41,8 +40,7 @@ The Posts tab can be used as a communication channel between teachers.
 
 - Teachers should join the VC before time, to adjust the relevant settings and wait for teachers.
 
-
-- Press ‘Join Now’
+- Press **‘Join Now’**
 
 ![image007](/img/image008.jpg)
 
@@ -55,12 +53,6 @@ The Posts tab can be used as a communication channel between teachers.
 - Your lesson is now being recorded. You can share documents and your screen with students. To do so press the ‘share’ icon.
 
 ![image009](/img/image013.jpg)
-
-
-
-
-
-
 
 
 - You can stop sharing your desktop or give control over the screen to one of the students by scrolling to the top of the screen and pressing the appropriate button.
@@ -78,31 +70,39 @@ The Posts tab can be used as a communication channel between teachers.
 
 ![image012](/img/image020.jpg)
 
-## Files tab
+
+# Files Tab
 This section can be used both as content repository and as a space for students to work in (individually or collaboratively).
-The “Class Materials” default folder is a ‘read-only’ folder. This can be used for teachers to upload resources students
+The **“Class Materials”** default folder is a ‘read-only’ folder. This can be used for teachers to upload resources students
 may need but should not change or remove. Students have no permission to add files to this folder.
+
 ##   Adding folders
 Teachers (or students) may choose to add other folders under the Files tab. This can be done by pressing ‘New’ Followed by ‘Folder’ (see screenshot below
 
 ![image012](/img/image023.jpg)
+
 
 In addition, teacher can create Word/Excel/PPT files which will automatically be set up with edit rights for students. This is a great way to set up group/class work and encourage students to collaborate.
 
 ## Assignment tab
 This can be used to set individual assignments for students. Assignments can be set to ‘go live’ at a designated time, to better facilitate online, live learning. Teacher can attach resources, rubrics and differentiate work by assigning different tasks to different students.
 ![image013](/img/image024.jpg)
+
+
 To set the time when the assignment will be available for students, press the ‘Edit’ button at the bottom, tick the 
 
 ![image014](/img/image025.jpg)
+
 
 ‘schedule to assign in the future’ box and change the date and time.
 
 ![image015](/img/image027.jpg)
 
+
 Rubrics are extremely useful not only for self-assessment but also for feedback. Once set up, teacher can give specific feedback based on the rubric set up. This makes the feedback clear and relevant for the students. Please note that both descriptors (criteria) and a achievement levels can be modified/added/removed to cater to teacher’s needs.
 
 ![image016](/img/image026.jpg)
+
 
 Please discuss with your HOYs to hear suggestions on add-ons relevant to your subject areas. Flipgrid (video reflection/feedback tool) is just one of many useful add-ons.
 
@@ -110,9 +110,11 @@ Please discuss with your HOYs to hear suggestions on add-ons relevant to your su
 
 ![image018](/img/image028.jpg)
 
+
 Once added, it will appear as one of the tabs in your Team.
 
 ![image019](/img/image030.png)
+
 
 Note: For Flipgrid, you will first need to create the grid (once), using your Microsoft log-in.
 
