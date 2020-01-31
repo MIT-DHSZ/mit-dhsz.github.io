@@ -36,7 +36,7 @@ The Posts tab can be used as a communication channel between teachers.
 
 - Teachers can join the lesson either through the link in outlook or Teams
 
-![image006](/img/image007.jpg)
+![image006](/img/image007.png)
 
 
 - Teachers should join the VC before time, to adjust the relevant settings and wait for teachers.
