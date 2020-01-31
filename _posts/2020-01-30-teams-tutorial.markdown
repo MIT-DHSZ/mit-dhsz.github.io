@@ -112,7 +112,7 @@ Please discuss with your HOYs to hear suggestions on add-ons relevant to your su
 
 Once added, it will appear as one of the tabs in your Team.
 
-![image019](/img/image030.jpg)
+![image019](/img/image030.png)
 
 Note: For Flipgrid, you will first need to create the grid (once), using your Microsoft log-in.
 
