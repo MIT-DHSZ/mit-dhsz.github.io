@@ -10,7 +10,7 @@
 
 > In Teams, go to the class you would like to set a Notebook for and press the ‘Class Notebook’ tab. Allow time for the page to load and press ‘set up a OneNote Class Notebook’.
 
-![Class%20Notebook/image1.jpeg](Class%20Notebook/image1.jpeg)
+![Class%20Notebook/image1.jpeg](/Class%20Notebook/image1.jpeg)
 
 > In the drop box menu, choose ‘Blank Notebook’ (unless you have a master OneNote for a certain subject). Then press next.This is where you decide on the structure of the sections each student will have in their digital notebook. This will vary between subject areas and you should consult your HOD or ICTChampions. Commonly used sections are: HW, handouts, notes, review material, etc.
 
