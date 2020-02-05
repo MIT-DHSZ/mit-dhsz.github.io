@@ -125,6 +125,6 @@ a little trick about that keeps you away from the phone. It does it by jumping y
 
 # Recommend readings and activities
 
-[|Digital Wellbeing through technology | Google|](https://wellbeing.google/)
+[\|Digital Wellbeing through technology \| Google\|](https://wellbeing.google/)
 
 [Take a technology self-assessment | Digital Wellbeing | Google](https://wellbeing.google/reflect)
