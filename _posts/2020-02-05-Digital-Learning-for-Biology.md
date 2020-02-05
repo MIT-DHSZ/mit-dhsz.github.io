@@ -1,10 +1,14 @@
 # How I got A* in Biology by digital learning
+---
 
 Chief Editor: Steven Chao
+
 Chief Proofreader: Yixiao Zhang
-Created: Feb 05, 2020 4:58 PM
+
 Publisher: Carl Dong
-Tags: Biology
+
+---
+
 
 > Another article by MITrix community of Master In Tech in DHSZ
 
