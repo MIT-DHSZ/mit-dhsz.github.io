@@ -89,7 +89,7 @@ On Summary Page (pie icon) of Dashboard, you can feed several options under the 
 
 Just like Downtime on Screen Time, it allows you to set a period of a day that you wants some relaxation or productivity. It will auto-enable during that period(s) after you set them. 
 
-![Digital%20Wellness/21579613302_.jpg](/Digital%20Wellness/21579613302_.jpg =50x)
+![Digital%20Wellness/21579613302_.jpg](/Digital%20Wellness/21579613302_.jpg){:height="50%" width="50%"}
 
 ### Focus mode
 
