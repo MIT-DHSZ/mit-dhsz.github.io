@@ -118,7 +118,7 @@ a little trick about that keeps you away from the phone. It does it by jumping y
 
 # References
 
-1. [少数派 — 你每天在 App 上花了多少时间？ 用这款 Android 应用帮你统计：ActionDash | App+1](https://sspai.com/post/52736) by [Clyde](https://sspai.com/u/clyde/updates)
+1. [少数派 — 你每天在 App 上花了多少时间？ 用这款 Android 应用帮你统计：ActionDash   \| App+1](https://sspai.com/post/52736) by [Clyde](https://sspai.com/u/clyde/updates)
 2. [Medium — Introducing ActionDash!](https://blog.actionlauncher.com/actiondash-android-digital-wellbeing-alternative-2765746aad51) by [Chris Lacy (developer of ActionDash)](https://blog.actionlauncher.com/@chrismlacy?source=post_page-----2765746aad51----------------------)
 3. [Apple Support — Use Screen Time on your iPhone, iPad, or iPod touch](https://support.apple.com/en-hk/HT208982)
 
