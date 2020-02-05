@@ -31,7 +31,9 @@ The left screenshot is Screen Time page. You will see a page like this if  have 
 
 On the right screenshot, you can clear see that the user is playing a game. On the top of the screen, a pop-up notifications reminds the user *"5 minutes remaining for Games today"* in a Time Check notification. To enable this reminder, you will need to enable the App Limits in the setting.
 
-![https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iOS/ios13-iphone-xs-settings-screen-time.jpg](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iOS/ios13-iphone-xs-settings-screen-time.jpg)
+<img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iOS/ios13-iphone-xs-settings-screen-time.jpg" alt="iphone_screen" height="30%" width="60%">
+
+
 
 To view your report, you will need to tap See All Activity under the graph. On the screen, you will be able see your per-app usage and also set limits for each app — just tap on the app name. You, too, can view how many times your device was picked up and how many notifications you received for the day. By the way, you will always receive a weekly Screen Time report every Sunday 9:00 AM. 🉑️
 
@@ -89,32 +91,32 @@ On Summary Page (pie icon) of Dashboard, you can feed several options under the 
 
 Just like Downtime on Screen Time, it allows you to set a period of a day that you wants some relaxation or productivity. It will auto-enable during that period(s) after you set them. 
 
-<img src="/Digital%20Wellness/21579613302_.jpg" alt="test image size" height="30%" width="60%">
+<img src="/Digital%20Wellness/21579613302_.jpg" alt="Android" height="30%" width="60%">
 
 ### Focus mode
 
 By tapping on Focus mode, you can choose your distracting app and turn on focus mode immediately by tapping on TURN ON NOW button. You will be no longer be able to use these app during that period. So, enjoy your time off your phone!
 
-<img src="/Digital%20Wellness/31579613303_.pic.jpg" alt="test image size" height="30%" width="60%">
+<img src="/Digital%20Wellness/31579613303_.pic.jpg" alt="Android" height="30%" width="60%">
 
 
 ### App usage limits
 
 It works in the similar way as the Screen Time App Limits does. Tap on the app you want to limit your time on, and select the time you think that is appropriate.
 
-<img src="/Digital%20Wellness/41579613304_.pic.jpg" alt="test image size" height="30%" width="60%">
+<img src="/Digital%20Wellness/41579613304_.pic.jpg" alt="Android" height="30%" width="60%">
 
 ### More options in settings
 
 - Usage Assistant — it will creates a notification that show the current status of phone usage including  times of unlocks and last used time.
 
-<img src="/Digital%20Wellness/51579613305_.pic.jpg" alt="test image size" height="30%" width="60%">
+<img src="/Digital%20Wellness/51579613305_.pic.jpg" alt="Android" height="30%" width="60%">
 
 ### Fresh Start
 
 a little trick about that keeps you away from the phone. It does it by jumping you back to your launcher (you remember? the "desktop" of your phone) when your device screen has been off for a period of time. As it claims, the function prevents unlocking your phone and being thrust straight back into a potentially distracting app.
 
-<img src="/Digital%20Wellness/61579613306_.pic.jpg" alt="test image size" height="30%" width="60%">
+<img src="/Digital%20Wellness/61579613306_.pic.jpg" alt="Android" height="30%" width="60%">
 
 # References
 
