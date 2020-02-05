@@ -41,9 +41,9 @@ For android user, unless your system is Pixel-like (Google Pixel, a Google produ
 
 > ActionDash takes the Digital Wellbeing app as a starting point, makes it available to all Android users, then offers a deeper experience with enhanced insights and powerful customizations. ActionDash even allows you to set app usage limits and enter "focus mode".
 
-![Digital%20Wellness/unnamed.png](Digital%20Wellness/unnamed.png)
+![Digital%20Wellness/unnamed.png](/Digital%20Wellness/unnamed.png)
 
-![Digital%20Wellness/unnamed-2.png](Digital%20Wellness/unnamed-2.png)
+![Digital%20Wellness/unnamed-2.png](/Digital%20Wellness/unnamed-2.png)
 
 ActionDash has functions that allow you customize the start of a day and a week, handy for advance users. However, it is beyond the scope of the article to discuss those functions in great detail. For now, we will just focus on the visualization of your screen time.
 
