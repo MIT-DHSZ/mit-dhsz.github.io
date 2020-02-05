@@ -89,31 +89,32 @@ On Summary Page (pie icon) of Dashboard, you can feed several options under the 
 
 Just like Downtime on Screen Time, it allows you to set a period of a day that you wants some relaxation or productivity. It will auto-enable during that period(s) after you set them. 
 
-![Digital%20Wellness/21579613302_.jpg](/Digital%20Wellness/21579613302_.jpg){:height="50%" width="50%"}
+<img src="/Digital%20Wellness/21579613302_.jpg" alt="test image size" height="30%" width="60%">
 
 ### Focus mode
 
 By tapping on Focus mode, you can choose your distracting app and turn on focus mode immediately by tapping on TURN ON NOW button. You will be no longer be able to use these app during that period. So, enjoy your time off your phone!
 
-![Digital%20Wellness/31579613303_.pic.jpg](/Digital%20Wellness/31579613303_.pic.jpg)
+<img src="/Digital%20Wellness/31579613303_.pic.jpg" alt="test image size" height="30%" width="60%">
+
 
 ### App usage limits
 
 It works in the similar way as the Screen Time App Limits does. Tap on the app you want to limit your time on, and select the time you think that is appropriate.
 
-![Digital%20Wellness/41579613304_.pic.jpg](/Digital%20Wellness/41579613304_.pic.jpg)
+<img src="/Digital%20Wellness/41579613304_.pic.jpg" alt="test image size" height="30%" width="60%">
 
 ### More options in settings
 
 - Usage Assistant — it will creates a notification that show the current status of phone usage including  times of unlocks and last used time.
 
-![Digital%20Wellness/51579613305_.pic.jpg](/Digital%20Wellness/51579613305_.pic.jpg)
+<img src="/Digital%20Wellness/51579613305_.pic.jpg" alt="test image size" height="30%" width="60%">
 
 ### Fresh Start
 
 a little trick about that keeps you away from the phone. It does it by jumping you back to your launcher (you remember? the "desktop" of your phone) when your device screen has been off for a period of time. As it claims, the function prevents unlocking your phone and being thrust straight back into a potentially distracting app.
 
-![Digital%20Wellness/61579613306_.pic.jpg](/Digital%20Wellness/61579613306_.pic.jpg)
+<img src="/Digital%20Wellness/61579613306_.pic.jpg" alt="test image size" height="30%" width="60%">
 
 # References
 
