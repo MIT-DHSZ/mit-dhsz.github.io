@@ -1,14 +1,8 @@
 ---
-
 Chief Editor: Steven Chao
-
 Chief Proofreader: Yixiao Zhang
-
 Publisher: Carl Dong
-
 ---
-
-/n
 
 > Another article by MITrix community of Master In Tech in DHSZ
 

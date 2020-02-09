@@ -2,7 +2,7 @@
 Chief Editor: Steven Chao
 Chief Proofreader: Yixiao Zhang
 ---
-
+> Another article by MITrix community of Master In Tech in DHSZ
 # What is digital wellness
 
 I want to start with a question. How many hours do you use your digital devices every question. To answer this question, you need to so-called "quantify yourself". Luckily, if you are using a iOS or iPadOS devices (above iOS 12), you will be able to find your time of usage daily, weekly and monthly in **Settings > Screen Time**. See? That's easy. 
