@@ -1,11 +1,7 @@
-# Digital Wellness
-
+---
 Chief Editor: Steven Chao
 Chief Proofreader: Yixiao Zhang
-Created: Jan 21, 2020 12:09 PM
-Tags: Digital Wellness
-
-- Table of Contents
+---
 
 # What is digital wellness
 

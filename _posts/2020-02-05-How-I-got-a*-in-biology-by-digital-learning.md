@@ -1,4 +1,3 @@
-# How I got A* in Biology by digital learning
 ---
 
 Chief Editor: Steven Chao
@@ -9,6 +8,7 @@ Publisher: Carl Dong
 
 ---
 
+/n
 
 > Another article by MITrix community of Master In Tech in DHSZ
 
@@ -42,4 +42,6 @@ Much similar to A&P, **Human Altas 2020** is another app for visualization of hu
 
 # That draws us to the conclusion...
 
-That brings us the end of the article, or another beginning... The MIT team will continue work hard to recommend you with useful apps, so please stick to our website! **REMEMBER [mit-dhsz.com](http://mit-dhsz.com) !**
+That brings us the end of the article, or another beginning... The MIT team will continue work hard to recommend you with useful apps, so please stick to our website! 
+
+**REMEMBER [mit-dhsz.com](http://mit-dhsz.com) !**
